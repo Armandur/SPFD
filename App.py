@@ -24,4 +24,4 @@ for i in range(764, 769):
 
 download_h = DownloadHandler.DownloadHandler()
 
-download_h.downloadAll(_images, "Stay Still - Stay Silent - ", 3, ".jpg")
+download_h.downloadAll(_images, "Stand Still - Stay Silent - ", 3, ".jpg")
